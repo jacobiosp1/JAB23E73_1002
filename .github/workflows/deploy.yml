@@ -35,23 +35,25 @@ jobs:
       # ---------- 3. 安装 staticrypt CLI (必需) ----------
       - name: Install staticrypt CLI
         run: npm install -g staticrypt
+        
+      # ---------- 3.5 安装系统依赖 (gdtools 编译必需，必须放在安装 R 包前面) ----------
+      - name: Install system dependencies for gdtools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcairo2-dev libfreetype6-dev libfontconfig1-dev
 
       # ---------- 4. 安装所有 R 包（包含 staticryptR） ----------
       - name: Install R packages
         run: |
           Rscript -e "options(repos = c(CRAN = 'https://cloud.r-project.org/'))"
-          Rscript -e "install.packages(c('rmarkdown', 'tidyverse', 'reader', 'purrr', 'stringr', 'survival', 'knitr', 'kableExtra', 'flextable', 'lubridate', 'officer', 'ggplot2', 'staticryptR'))"
+          Rscript -e "install.packages(c('rmarkdown', 'tidyverse', 'reader', 'purrr', 'stringr', 'survival', 'knitr', 'kableExtra', 'flextable', 'gdtools', 'lubridate', 'officer', 'ggplot2', 'staticryptR'))"
 
       # ---------- 5. 构建网站 ----------
       - name: Build site
         run: Rscript -e "rmarkdown::render_site()"
         
-      - name: Install system dependencies for gdtools
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libcairo2-dev libfreetype6-dev libfontconfig1-dev
         
-        # ---------- 5.1 额外渲染 program/ 子目录中的页面 ----------
+      # ---------- 5.1 额外渲染 program/ 子目录中的页面 ----------
       - name: Render pages in program subdirectory
         run: Rscript render_program.R
 

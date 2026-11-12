@@ -23,52 +23,50 @@ TEST,006,1,1,Dry Mouth,Dry mouth,Gastrointestinal disorders,N,DOSE NOT CHANGED,R
 TEST,006,2,1,Cardiac Troponin T increased,Troponin T increased,Investigations,Y,NOT APPLICABLE,Not Related,RECOVERED/RESOLVED,3,2025-11-28,2025-11-30,65,67,006
 TEST,007,1,1,Edema,Oedema,General disorders and administration site conditions,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2025-11-17,,15,,007
 TEST,007,2,1,Abdominal Pain,Abdominal pain,Gastrointestinal disorders,N,NOT APPLICABLE,Not Related,NOT RECOVERED/NOT RESOLVED,1,2025-11-11,,9,,007
-TEST,007,3,1,Calcium Decreased,Blood calcium decreased,Investigations,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2025-12-15,2026-01-26,43,85,007
-TEST,007,4,1,Nail beds discolored,Nail bed disorder,Skin and subcutaneous tissue disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2026-02-02,2026-03-30,92,148,007
-TEST,007,5,1,Pain - Hands stiff,Pain in extremity,Musculoskeletal and connective tissue disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-02-19,,109,,007
-TEST,007,6,1,vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-02-20,2026-02-20,110,110,007
-TEST,007,7,2,vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-05-15,,194,,007
-TEST,007,8,1,weight gain,Weight increased,Investigations,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-03-30,,148,,007
-TEST,007,9,1,taste change,Taste disorder,Nervous system disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-06-15,,225,,007
-TEST,007,10,1,bloating,Abdominal distension,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2026-07-08,2026-07-11,248,251,007
-TEST,007,11,1,mucositis oral,Stomatitis,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2026-07-07,2026-07-09,247,249,007
-TEST,007,12,1,acneform,Dermatitis acneiform,Skin and subcutaneous tissue disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2025-11-11,2026-05-26,9,205,007
-TEST,007,13,2,acneform,Dermatitis acneiform,Skin and subcutaneous tissue disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,2,2026-05-27,,206,,007
-TEST,007,14,1,Chills,Chills,General disorders and administration site conditions,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-08-23,,294,,007
-TEST,007,15,1,blood in stool,Haematochezia,Gastrointestinal disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2026-08-17,2026-08-19,288,290,007
-TEST,007,16,1,myalgia - feet,,,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-09-01,,303,,007
-TEST,007,17,1,GI Disorder - Other: Gray stool,Faeces discoloured,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2025-11-14,,12,,007
-TEST,007,18,1,Dyspepsia,Dyspepsia,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,2,2025-11-14,,12,,007
-TEST,007,19,1,Vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2025-11-09,2025-11-09,7,7,007
-TEST,007,20,1,Diarrhea,Diarrhoea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2025-11-03,2025-11-25,1,23,007
-TEST,007,21,2,Diarrhea,Diarrhoea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2026-07-09,2026-07-11,249,251,007
-TEST,007,22,3,Diarrhea,Diarrhoea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2026-09-01,2026-09-02,303,304,007
-TEST,007,23,1,Cough,Cough,"Respiratory, thoracic and mediastinal disorders",N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2025-11-23,2025-11-28,21,26,007
-TEST,007,24,1,Headache,Headache,Nervous system disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2025-11-22,,20,,007
-TEST,007,25,1,Sensory neuropathy,Peripheral sensory neuropathy,Nervous system disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2025-12-01,,29,,007
+TEST,007,3,1,Nail beds discolored,Nail bed disorder,Skin and subcutaneous tissue disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2026-02-02,2026-03-30,92,148,007
+TEST,007,4,1,Pain - Hands stiff,Pain in extremity,Musculoskeletal and connective tissue disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-02-19,,109,,007
+TEST,007,5,1,vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-02-20,2026-02-20,110,110,007
+TEST,007,6,2,vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-05-15,,194,,007
+TEST,007,7,1,weight gain,Weight increased,Investigations,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-03-30,,148,,007
+TEST,007,8,1,taste change,Taste disorder,Nervous system disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-06-15,,225,,007
+TEST,007,9,1,bloating,Abdominal distension,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2026-07-08,2026-07-11,248,251,007
+TEST,007,10,1,mucositis oral,Stomatitis,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2026-07-07,2026-07-09,247,249,007
+TEST,007,11,1,acneform,Dermatitis acneiform,Skin and subcutaneous tissue disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2025-11-11,2026-05-26,9,205,007
+TEST,007,12,2,acneform,Dermatitis acneiform,Skin and subcutaneous tissue disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,2,2026-05-27,,206,,007
+TEST,007,13,1,Chills,Chills,General disorders and administration site conditions,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-08-23,,294,,007
+TEST,007,14,1,blood in stool,Haematochezia,Gastrointestinal disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2026-08-17,2026-08-19,288,290,007
+TEST,007,15,1,myalgia - feet,,,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-09-01,,303,,007
+TEST,007,16,1,GI Disorder - Other: Gray stool,Faeces discoloured,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2025-11-14,,12,,007
+TEST,007,17,1,Dyspepsia,Dyspepsia,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,2,2025-11-14,,12,,007
+TEST,007,18,1,Vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2025-11-09,2025-11-09,7,7,007
+TEST,007,19,1,Diarrhea,Diarrhoea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2025-11-03,2025-11-25,1,23,007
+TEST,007,20,2,Diarrhea,Diarrhoea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2026-07-09,2026-07-11,249,251,007
+TEST,007,21,3,Diarrhea,Diarrhoea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2026-09-01,2026-09-02,303,304,007
+TEST,007,22,1,Cough,Cough,"Respiratory, thoracic and mediastinal disorders",N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2025-11-23,2025-11-28,21,26,007
+TEST,007,23,1,Headache,Headache,Nervous system disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2025-11-22,,20,,007
+TEST,007,24,1,Sensory neuropathy,Peripheral sensory neuropathy,Nervous system disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2025-12-01,,29,,007
 TEST,008,1,1,Diarrhea,Diarrhoea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2025-12-03,2026-04-06,2,126,008
 TEST,008,2,2,Diarrhea,Diarrhoea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-04-25,,145,,008
 TEST,008,3,1,pneumatosis,Pneumatosis,General disorders and administration site conditions,N,DOSE REDUCED,Not Related,RECOVERED/RESOLVED,1,2026-03-31,2026-04-20,120,140,008
 TEST,008,4,1,conjunctivitis,Conjunctivitis,Infections and infestations,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,2,2026-04-13,2026-04-20,133,140,008
-TEST,008,5,1,hypocalcemia,Hypocalcaemia,Metabolism and nutrition disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2025-12-22,2026-01-06,21,36,008
-TEST,008,6,1,vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-04-24,,144,,008
-TEST,008,7,1,intermittent lightheadedness,Dizziness,Nervous system disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-05-20,,170,,008
-TEST,008,8,1,neuropathy - sensory,Peripheral sensory neuropathy,Nervous system disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,2,2026-06-12,,193,,008
-TEST,008,9,1,neuropathy - motor,Peripheral sensory neuropathy,Nervous system disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,2,2026-06-12,,193,,008
-TEST,008,10,1,hypertension,Hypertension,Vascular disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,2,2026-06-26,2026-07-13,207,224,008
-TEST,008,11,1,edema,Oedema,General disorders and administration site conditions,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,2,2026-08-01,,243,,008
-TEST,008,12,1,Mucositis Oral,Stomatitis,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2025-12-12,2025-12-13,11,12,008
-TEST,008,13,1,hypotension,Hypotension,Vascular disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-07-14,,225,,008
-TEST,008,14,1,TSH increased,Blood thyroid stimulating hormone increased,Investigations,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-04-24,,144,,008
-TEST,008,15,1,Nausea,Nausea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2025-12-02,2025-12-03,1,2,008
-TEST,008,16,1,Nausea,Nausea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2025-12-19,2025-12-20,18,19,008
-TEST,008,17,1,Vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2025-12-19,2025-12-20,18,19,008
-TEST,008,18,1,Anemia,Anaemia,Blood and lymphatic system disorders,N,DRUG INTERRUPTED,Related,RECOVERED/RESOLVED,3,2026-01-06,2026-01-12,36,42,008
-TEST,008,19,2,Anemia,Anaemia,Blood and lymphatic system disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,2,2026-03-17,2026-04-20,106,140,008
-TEST,008,20,1,weight loss,Weight decreased,Investigations,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-02-03,2026-06-25,64,206,008
-TEST,008,21,2,weight loss,Weight decreased,Investigations,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,2,2026-06-26,,207,,008
-TEST,008,22,1,hypotension,Hypotension,Vascular disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2026-03-17,2026-06-25,106,206,008
-TEST,008,23,1,anemia,Anaemia,Blood and lymphatic system disorders,N,DOSE REDUCED,Related,RECOVERING/RESOLVING,3,2026-04-21,,141,,008
+TEST,008,5,1,vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-04-24,,144,,008
+TEST,008,6,1,intermittent lightheadedness,Dizziness,Nervous system disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-05-20,,170,,008
+TEST,008,7,1,neuropathy - sensory,Peripheral sensory neuropathy,Nervous system disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,2,2026-06-12,,193,,008
+TEST,008,8,1,neuropathy - motor,Peripheral sensory neuropathy,Nervous system disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,2,2026-06-12,,193,,008
+TEST,008,9,1,hypertension,Hypertension,Vascular disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,2,2026-06-26,2026-07-13,207,224,008
+TEST,008,10,1,edema,Oedema,General disorders and administration site conditions,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,2,2026-08-01,,243,,008
+TEST,008,11,1,Mucositis Oral,Stomatitis,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2025-12-12,2025-12-13,11,12,008
+TEST,008,12,1,hypotension,Hypotension,Vascular disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-07-14,,225,,008
+TEST,008,13,1,TSH increased,Blood thyroid stimulating hormone increased,Investigations,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-04-24,,144,,008
+TEST,008,14,1,Nausea,Nausea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2025-12-02,2025-12-03,1,2,008
+TEST,008,15,1,Nausea,Nausea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2025-12-19,2025-12-20,18,19,008
+TEST,008,16,1,Vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2025-12-19,2025-12-20,18,19,008
+TEST,008,17,1,Anemia,Anaemia,Blood and lymphatic system disorders,N,DRUG INTERRUPTED,Related,RECOVERED/RESOLVED,3,2026-01-06,2026-01-12,36,42,008
+TEST,008,18,2,Anemia,Anaemia,Blood and lymphatic system disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,2,2026-03-17,2026-04-20,106,140,008
+TEST,008,19,1,weight loss,Weight decreased,Investigations,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-02-03,2026-06-25,64,206,008
+TEST,008,20,2,weight loss,Weight decreased,Investigations,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,2,2026-06-26,,207,,008
+TEST,008,21,1,hypotension,Hypotension,Vascular disorders,N,DOSE NOT CHANGED,Not Related,RECOVERED/RESOLVED,1,2026-03-17,2026-06-25,106,206,008
+TEST,008,22,1,anemia,Anaemia,Blood and lymphatic system disorders,N,DOSE REDUCED,Related,RECOVERING/RESOLVING,3,2026-04-21,,141,,008
 TEST,010,1,1,vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,2,2025-12-22,2026-01-22,1,32,010
 TEST,010,2,2,vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2026-01-23,2026-02-22,33,63,010
 TEST,010,3,1,Nausea,Nausea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,2,2026-01-06,2026-02-22,16,63,010
@@ -81,7 +79,6 @@ TEST,011,2,1,vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Not
 TEST,011,3,1,edema- eyes and feet,Oedema,General disorders and administration site conditions,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-04-07,,16,,011
 TEST,011,4,1,voice hoarseness,Dysphonia,"Respiratory, thoracic and mediastinal disorders",N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-04-07,,16,,011
 TEST,011,5,1,weight gain,Weight increased,Investigations,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-04-08,,17,,011
-TEST,011,6,1,calcium decreased,Blood calcium decreased,Investigations,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,2,2026-04-27,,36,,011
 TEST,012,1,1,chills,Chills,General disorders and administration site conditions,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-04-28,,1,,012
 TEST,012,2,1,diarrhea,Diarrhoea,Gastrointestinal disorders,N,DRUG INTERRUPTED,Related,RECOVERED/RESOLVED,3,2026-05-02,2026-05-11,5,14,012
 TEST,012,3,2,diarrhea,Diarrhoea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,2,2026-04-28,2026-05-01,1,4,012
@@ -96,7 +93,7 @@ TEST,012,11,1,fever,Pyrexia,General disorders and administration site conditions
 TEST,013,1,1,nausea,Nausea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-05-07,,1,,013
 TEST,013,2,1,flu like symptoms,Influenza like illness,General disorders and administration site conditions,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-05-07,,1,,013
 TEST,013,3,1,myalgia,Myalgia,Musculoskeletal and connective tissue disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-05-17,,11,,013
-TEST,013,4,1,pain,Pain,General disorders and administration site conditions,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-05-17,,11,,013
+TEST,013,4,1,pain - low back,,,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-05-17,,11,,013
 TEST,013,5,1,hypotension,Hypotension,Vascular disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-05-20,,14,,013
 TEST,013,6,1,anemia,Anaemia,Blood and lymphatic system disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,3,2026-05-24,2026-05-27,18,21,013
 TEST,013,7,2,anemia,Anaemia,Blood and lymphatic system disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,2,2026-05-28,,22,,013
@@ -164,7 +161,11 @@ TEST,016,3,2,diarrhea,Diarrhoea,Gastrointestinal disorders,N,DOSE NOT CHANGED,Re
 TEST,016,4,1,dry mouth,Dry mouth,Gastrointestinal disorders,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-09-02,,,,016
 TEST,016,5,1,fatigue,Fatigue,General disorders and administration site conditions,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,2,2026-10-01,,,,016
 TEST,016,6,1,vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2026-09-23,2026-09-23,,,016
-TEST,016,7,1,lightheadedness,Dizziness,Nervous system disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-09-23,,,,016
+TEST,016,7,2,vomiting,Vomiting,Gastrointestinal disorders,N,DOSE NOT CHANGED,Related,RECOVERED/RESOLVED,1,2026-10-26,,,,016
+TEST,016,8,1,lightheadedness,Dizziness,Nervous system disorders,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2026-09-23,,,,016
+TEST,016,9,1,edema - legs,,,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-10-30,,,,016
+TEST,016,10,1,cough,Cough,"Respiratory, thoracic and mediastinal disorders",N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,1,2026-10-26,,,,016
+TEST,016,11,1,pain,Pain,General disorders and administration site conditions,N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,2,2026-10-10,,,,016
 TEST,001,1,1,Fatigue,Fatigue,General disorders and administration site conditions,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2025-10-09,,4,,001
 TEST,001,2,1,Limb Edema,Oedema peripheral,General disorders and administration site conditions,N,DOSE NOT CHANGED,Related,NOT RECOVERED/NOT RESOLVED,1,2025-11-11,,37,,001
 TEST,001,3,1,Pulmonary Edema,Pulmonary oedema,"Respiratory, thoracic and mediastinal disorders",N,DOSE NOT CHANGED,Not Related,NOT RECOVERED/NOT RESOLVED,2,2025-11-10,,36,,001
